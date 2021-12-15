@@ -34,7 +34,7 @@
         </div>
     </nav>
     <header class="masthead bg-primary text-white text-center" style="background: #00a3dc!important;filter: grayscale(0%) hue-rotate(0deg);">
-        <div class="container" style="background: transparent;"><img class="img-fluid d-block mx-auto mb-5" src="" />
+        <div class="container" style="background: transparent;"><img class="img-fluid d-block mx-auto mb-5" src="assets/img/profile.jpg" />
             <h1 style="text-shadow: 6px 2px var(--dark);">Taejon Branch</h1>
             <hr class="far fa-star-half" style="font-size: 65px;color: var(--dark);border-style: none;border-color: transparent;">
             <h2 class="font-weight-light mb-0">Front-End Web Developer - User Experience Designer</h2>
